@@ -6,6 +6,6 @@
 
 <ul>
 <li>
-<a href="https://www.urionlinejudge.com.br/judge/pt/profile/174778">URi</a>
+<a target="https://www.urionlinejudge.com.br/judge/pt/profile/174778">URi</a>
 </li>
 </ul>
