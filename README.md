@@ -2,7 +2,7 @@
 
 <h3>Repositório para códigos de treino e provas de maratona</h3>
 
-<h5>Plataformas utilizadas para treno</h5>
+<h5>Plataformas utilizadas para treino</h5>
 
 <ul>
 <li>
